@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24d5c8b5-1fee-4bd9-a299-1e0ac35d1c54" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2jbIefm8fzFXzvqSo9eNgDryeJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DZYCD/PycharmProjects/SaYibot/SaYi/picture&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\picture" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\.venv\Lib\site-packages\nonebot_plugin_apscheduler-0.5.0.dist-info" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\.venv\Lib\site-packages" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\luogu_question" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\time_freezer" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\.venv\Lib\site-packages\nonebot_plugin_apscheduler-0.5.0.dist-info" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\codeforces" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins" />
+      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\picture" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="24d5c8b5-1fee-4bd9-a299-1e0ac35d1c54" name="更改" comment="" />
+      <created>1721649446256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721649446256</updated>
+      <workItem from="1721649450651" duration="235000" />
+      <workItem from="1721649705519" duration="302000" />
+      <workItem from="1721650255994" duration="3188000" />
+      <workItem from="1721653484164" duration="9721000" />
+      <workItem from="1721720825029" duration="9761000" />
+      <workItem from="1721735385708" duration="12857000" />
+      <workItem from="1721798400189" duration="29496000" />
+      <workItem from="1721879359915" duration="1036000" />
+      <workItem from="1721886120259" duration="22354000" />
+      <workItem from="1721965808842" duration="13441000" />
+      <workItem from="1721992612218" duration="2683000" />
+      <workItem from="1721995336880" duration="1374000" />
+      <workItem from="1722005193971" duration="12060000" />
+      <workItem from="1722056530835" duration="18226000" />
+      <workItem from="1722085455970" duration="11720000" />
+      <workItem from="1722143837938" duration="22385000" />
+      <workItem from="1722231565639" duration="1440000" />
+      <workItem from="1722245614774" duration="4660000" />
+      <workItem from="1722262464787" duration="22080000" />
+      <workItem from="1722344010933" duration="3247000" />
+      <workItem from="1722356686447" duration="6011000" />
+      <workItem from="1722406067275" duration="2057000" />
+      <workItem from="1722413282357" duration="1527000" />
+      <workItem from="1722500445708" duration="5265000" />
+      <workItem from="1722514383930" duration="9598000" />
+      <workItem from="1722610247127" duration="9063000" />
+      <workItem from="1722683905599" duration="3732000" />
+      <workItem from="1722694702636" duration="7655000" />
+      <workItem from="1722749414450" duration="348000" />
+      <workItem from="1722758636482" duration="2184000" />
+      <workItem from="1722780053355" duration="3805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SaYibot$sample.coverage" NAME="sample 覆盖结果" MODIFIED="1722325625550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SaYibot$main.coverage" NAME="main 覆盖结果" MODIFIED="1721655070816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SaYibot$bot.coverage" NAME="bot 覆盖结果" MODIFIED="1721748072024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaYi" />
+    <SUITE FILE_PATH="coverage/SaYibot$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1722340314577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaYi/src/plugins/XinHuo-chat" />
+  </component>
+</project>

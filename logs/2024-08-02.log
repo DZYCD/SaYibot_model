@@ -1,0 +1,142 @@
+[2024-08-02 11:43:36] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 11:43:49] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 11:43:49] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 11:43:49] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 11:43:49] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 11:43:49] [WARNING]: Bot已离线: register error 
+[2024-08-02 11:43:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2024-08-02 11:43:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 11:43:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 11:43:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 11:43:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 11:43:55] [WARNING]: 尝试重连... 
+[2024-08-02 11:43:56] [WARNING]: token 已过期, 总丢失 token 次数为 1 
+[2024-08-02 11:43:58] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-08-02 11:48:31] [WARNING]: token 已过期, 总丢失 token 次数为 2 
+[2024-08-02 11:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 12:29:54] [ERROR]: 错误: 请先添加 SAYI_998(3837076318) 为好友 
+[2024-08-02 12:30:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 13:10:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 13:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 14:30:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 15:10:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 15:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 16:30:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 17:10:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 17:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 18:30:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 19:10:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 19:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 20:30:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 20:45:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 20:45:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 21:10:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 21:17:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 21:17:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 21:18:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 21:18:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 21:18:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 21:18:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 21:18:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 21:18:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 21:50:18] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 21:51:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 21:51:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 21:51:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 21:54:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 21:54:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540225586 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 541945718 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:06] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:07] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:07] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:07] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:07] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:25:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:25:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:25:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:25:29] [WARNING]: Bot已离线: quick reconnect failed 
+[2024-08-02 22:25:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2024-08-02 22:25:35] [WARNING]: 尝试重连... 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:37] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:38] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:38] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:39] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:39] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:39] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:39] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:25:40] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-08-02 22:25:40] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-08-02 22:26:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.233.18.186:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:26:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.233.18.186:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:26:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.233.18.186:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:26:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.233.18.186:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-08-02 22:26:06] [WARNING]: 快速重连失败: Packet timed out 
+[2024-08-02 22:26:06] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2024-08-02 22:43:29] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 22:43:35] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-08-02 22:46:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:46:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:47:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:47:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:47:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:48:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:48:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:48:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:48:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:48:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:49:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:50:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:50:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:50:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:55:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:55:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:55:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:58:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 22:58:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 22:58:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 22:58:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 23:00:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:00:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:03:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:03:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:03:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 23:04:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:04:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:04:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 23:06:52] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:06:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:06:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 23:07:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:07:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:23:32] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-08-02 23:26:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:26:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:26:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-08-02 23:27:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:27:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-08-02 23:32:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-08-02 23:32:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 

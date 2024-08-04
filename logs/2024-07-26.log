@@ -1,0 +1,404 @@
+[2024-07-26 11:51:31] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 11:51:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 11:51:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 11:51:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 11:51:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 11:51:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 12:57:35] [WARNING]: 警告: 群 715035073 图片上传失败: image type error: text/html; charset=utf-8 
+[2024-07-26 13:05:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 13:05:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 13:08:02] [WARNING]: 群 868949744 发送消息失败: 账号可能被风控. 
+[2024-07-26 13:10:05] [WARNING]: 警告: 群 868949744 富文本消息发送失败: timeout 
+[2024-07-26 13:13:13] [WARNING]: 群 868949744 发送消息失败: 账号可能被风控. 
+[2024-07-26 13:17:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 13:17:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 13:17:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:17:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:18:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:19:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:20:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:21:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:22:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:23:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:24:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:25:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:26:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:27:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:28:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:29:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 13:30:30] [WARNING]: 警告: 配置文件内的QQ号 (2470622845) 与缓存内的QQ号 (3837076318) 不相同 
+[2024-07-26 13:30:31] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-26 13:30:31] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-26 13:30:31] [WARNING]: 请选择: 
+[2024-07-26 13:30:42] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 13:30:42] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 13:30:57] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:31:06] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:31:15] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:31:24] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:31:33] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 13:31:33] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 13:32:10] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 13:32:10] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 13:32:26] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:32:35] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:32:43] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:41:02] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 13:41:02] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 13:41:18] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:41:27] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:41:36] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:41:45] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 13:41:45] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 13:59:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 13:59:32] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 13:59:45] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:59:52] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 13:59:58] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:00:07] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 14:00:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:00:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:00:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:01:26] [WARNING]: 警告: 配置文件内的QQ号 (2470622845) 与缓存内的QQ号 (3837076318) 不相同 
+[2024-07-26 14:01:26] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-26 14:01:26] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-26 14:01:26] [WARNING]: 请选择: 
+[2024-07-26 14:01:33] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:01:37] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 14:01:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:01:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:01:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:01:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:02:53] [WARNING]: 警告: 配置文件内的QQ号 (2470622845) 与缓存内的QQ号 (3837076318) 不相同 
+[2024-07-26 14:02:53] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-26 14:02:53] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-26 14:02:53] [WARNING]: 请选择: 
+[2024-07-26 14:02:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 14:02:57] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 14:03:11] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:03:19] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:03:27] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:03:36] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 14:03:36] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 14:21:52] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 14:21:52] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 14:22:07] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:22:12] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:22:19] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:22:28] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:22:36] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 14:22:36] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 14:28:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 14:28:45] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 14:28:59] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:29:07] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:29:16] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:29:24] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 14:29:24] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 14:33:32] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-07-26 14:33:32] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-07-26 14:33:32] [WARNING]: 1. 自动提交 
+[2024-07-26 14:33:32] [WARNING]: 2. 手动抓取提交 
+[2024-07-26 14:33:32] [WARNING]: 请输入(1 - 2)： 
+[2024-07-26 14:33:36] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2470622845&sid=5961546562850210611&cap_cd=_aaXIi9l3tWUVr-XOKMvjIbzPGutaU4AOI3XqojQX6kteHAJIL1UIQ**&clientype=1&apptype=2  
+[2024-07-26 14:33:36] [WARNING]: 请输入ticket： (Enter 提交) 
+[2024-07-26 14:34:09] [WARNING]: 登录失败: 请使用手Q扫描二维码或短信登录。 Code: 238 
+[2024-07-26 14:35:08] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-07-26 14:35:08] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-07-26 14:35:08] [WARNING]: 1. 自动提交 
+[2024-07-26 14:35:08] [WARNING]: 2. 手动抓取提交 
+[2024-07-26 14:35:08] [WARNING]: 请输入(1 - 2)： 
+[2024-07-26 14:35:10] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2470622845&sid=129939731841762195&cap_cd=W5DakA6J8TjaSHfsoZ-ef8uqF8VzjfhLuO-Tjrux4wbf3eK9dz0vcA**&clientype=1&apptype=2  
+[2024-07-26 14:35:10] [WARNING]: 请输入ticket： (Enter 提交) 
+[2024-07-26 14:35:31] [WARNING]: 登录失败: 当前网络不稳定，登录失败。推荐使用常用设备或通过手机号登录。 Code: 237 
+[2024-07-26 14:35:31] [WARNING]: 登录过于频繁, 请在手机QQ登录并根据提示完成认证后等一段时间重试 
+[2024-07-26 14:36:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 14:36:38] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 14:36:53] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:37:01] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:37:10] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 14:37:19] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 14:37:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:37:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 14:37:43] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2024-07-26 14:38:19] [WARNING]: 群 868949744 发送消息失败: 账号可能被风控. 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540225586 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 541945718 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-07-26 16:34:16] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-07-26 16:34:17] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-07-26 16:34:17] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-07-26 16:34:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:39:33] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 17:39:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 17:39:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 17:40:28] [WARNING]: 转换消息 [CQ:image,file=file:///codeforces_user.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: file not found. 
+[2024-07-26 17:41:34] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:41:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 17:42:39] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:42:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 17:47:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:47:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 17:51:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:51:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 17:52:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:52:56] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 17:53:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 17:53:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 17:55:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 17:56:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 18:06:51] [WARNING]: 群 715035073 发送消息失败: 账号可能被风控. 
+[2024-07-26 18:06:58] [WARNING]: 群 715035073 发送消息失败: 账号可能被风控. 
+[2024-07-26 18:54:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 18:55:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:09:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:09:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:13:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:13:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:13:51] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:13:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:14:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:14:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:14:30] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:14:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:15:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:20:03] [WARNING]: 警告: 配置文件内的QQ号 (3836025044) 与缓存内的QQ号 (3837076318) 不相同 
+[2024-07-26 19:20:03] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-26 19:20:03] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-26 19:20:03] [WARNING]: 请选择: 
+[2024-07-26 19:20:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 19:20:07] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 19:20:21] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 19:20:27] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 19:20:33] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 19:20:42] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 19:33:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 19:33:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 19:38:44] [WARNING]: 转换消息 [CQ: 二次元怎么你了!] 到MiraiGo Element时出现错误: unsupported message type:  二次元怎么你了!. 
+[2024-07-26 20:01:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 20:01:37] [ERROR]: 无法响应API调用(连接已断开?): websocket: close sent 
+[2024-07-26 20:01:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 20:01:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:01:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:01:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:01:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:02:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 20:04:31] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 20:04:39] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 20:05:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 20:05:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:10:39] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 23:13:30] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-26 23:18:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:18:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:21:46] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:21:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:22:29] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:22:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:23:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:23:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:23:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:23:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:24:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:24:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:24:23] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:24:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:25:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:25:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:26:29] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 23:31:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:31:52] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:36:14] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 23:38:46] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:38:47] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:39:05] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 23:41:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:41:57] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:42:16] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-26 23:46:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:46:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:52:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-26 23:53:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-26 23:53:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:53:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:54:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-26 23:56:38] [WARNING]: 警告: 配置文件内的QQ号 (2470622845) 与缓存内的QQ号 (3836025044) 不相同 
+[2024-07-26 23:56:38] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-26 23:56:38] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-26 23:56:38] [WARNING]: 请选择: 
+[2024-07-26 23:56:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 23:56:46] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 23:57:02] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:57:11] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:57:19] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:57:28] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-26 23:57:28] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-26 23:58:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-26 23:58:50] [WARNING]: 将在 5秒 后继续. 
+[2024-07-26 23:59:04] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:59:13] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:59:21] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-26 23:59:30] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 

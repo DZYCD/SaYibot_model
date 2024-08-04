@@ -1,0 +1,203 @@
+[2024-07-31 00:25:35] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 00:30:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:35:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:40:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:45:03] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:50:03] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:55:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 00:58:40] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-31 00:58:47] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-31 01:00:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 01:05:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 01:10:02] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 01:15:03] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 01:20:03] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 01:20:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-31 01:20:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-31 01:21:32] [WARNING]: 警告: 配置文件内的QQ号 (3837076318) 与缓存内的QQ号 (3836025044) 不相同 
+[2024-07-31 01:21:32] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-31 01:21:32] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-31 01:21:32] [WARNING]: 请选择: 
+[2024-07-31 01:21:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 01:21:45] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 01:21:59] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:22:08] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:22:16] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:22:26] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 01:22:26] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 01:25:28] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 01:25:28] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 01:25:43] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:25:49] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:25:55] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:02] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:08] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:14] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:22] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:30] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:26:40] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 01:26:40] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 01:52:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 01:52:25] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 01:52:40] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2024-07-31 01:53:23] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2024-07-31 01:53:23] [WARNING]: 请选择提交滑块ticket方式: 
+[2024-07-31 01:53:23] [WARNING]: 1. 自动提交 
+[2024-07-31 01:53:23] [WARNING]: 2. 手动抓取提交 
+[2024-07-31 01:53:23] [WARNING]: 请输入(1 - 2)： 
+[2024-07-31 01:53:25] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=3837076318&sid=4094467645840631955&cap_cd=uXZn5QYQ276ivA-C40kWGVVVK1BlI4tPExgR0zOTQVFwqOjxwhqOYw**&clientype=1&apptype=2  
+[2024-07-31 01:53:25] [WARNING]: 请输入ticket： (Enter 提交) 
+[2024-07-31 01:53:52] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 01:53:52] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 01:57:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 01:57:40] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 01:57:54] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:58:03] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:58:11] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:58:18] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:58:22] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 01:58:22] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 01:58:31] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 01:58:31] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 01:58:45] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:58:54] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:59:02] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 01:59:10] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 01:59:10] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 02:00:22] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 02:00:22] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 02:00:36] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:00:44] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:00:52] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:01:00] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 02:01:00] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 02:02:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 02:02:46] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 02:03:00] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:03:08] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:03:16] [WARNING]: 获取签名为空，实例可能丢失，正在尝试重新注册 
+[2024-07-31 02:03:24] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 02:03:25] [ERROR]: Protocol -> get self guild profile error: decode packet error: oidb result unsuccessful: 155 msg: [oidb] ret: 141, func_ret: 0, err: service name:trpc.group_pro.cmd0xf88.GetGroupProUserInfo, transport name:fiber_transport, sendrcv failed, ret:141 
+[2024-07-31 02:03:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:03:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:03:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:03:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:03:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:03:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 02:06:21] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2024-07-31 02:08:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:13:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:18:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:23:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:28:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:33:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:38:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:43:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:48:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:53:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 02:58:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:03:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:08:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:13:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:18:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:23:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:28:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:33:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:38:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:43:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:48:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:53:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 03:58:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:03:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:08:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:13:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:18:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:23:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:28:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:33:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:38:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:43:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:48:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:53:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 04:58:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 05:03:54] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 13:41:33] [WARNING]: Callback error: Packet timed out, or response data is empty 
+[2024-07-31 13:41:35] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.8.201.143:58291->36.155.205.230:14000: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2024-07-31 13:41:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-07-31 13:41:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-07-31 13:41:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540225586 
+[2024-07-31 13:41:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 541945718 
+[2024-07-31 13:41:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2024-07-31 13:41:36] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2024-07-31 13:42:05] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-07-31 13:42:05] [WARNING]: Bot已离线: register error 
+[2024-07-31 13:42:05] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-07-31 13:42:05] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2024-07-31 13:42:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2024-07-31 13:42:11] [WARNING]: 尝试重连... 
+[2024-07-31 13:42:11] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 13:42:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-31 13:42:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-31 13:47:26] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 13:52:26] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 13:57:26] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 14:02:26] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 14:06:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:60805->127.0.0.1:8890: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2024-07-31 14:17:02] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 14:19:27] [WARNING]: 警告: 配置文件内的QQ号 (2470622845) 与缓存内的QQ号 (3836025044) 不相同 
+[2024-07-31 14:19:27] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-31 14:19:27] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-31 14:19:27] [WARNING]: 请选择: 
+[2024-07-31 14:19:30] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 14:19:30] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 14:19:57] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 14:19:57] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 14:20:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 14:20:20] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 14:20:49] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2024-07-31 14:20:49] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2024-07-31 14:21:04] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2024-07-31 14:21:04] [WARNING]: 将在 5秒 后继续. 
+[2024-07-31 14:21:25] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 14:21:37] [ERROR]: 错误: 请先添加 双鱼馅豆腐(2176930756) 为好友 
+[2024-07-31 14:23:38] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-31 14:23:42] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-31 14:25:54] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 14:25:59] [WARNING]: 警告: 配置文件内的QQ号 (3837076318) 与缓存内的QQ号 (3836025044) 不相同 
+[2024-07-31 14:25:59] [WARNING]: 1. 使用会话缓存继续. 
+[2024-07-31 14:25:59] [WARNING]: 2. 删除会话缓存并重启. 
+[2024-07-31 14:25:59] [WARNING]: 请选择: 
+[2024-07-31 14:26:03] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 15:53:26] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2024-07-31 16:10:42] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 16:10:44] [WARNING]: 签名服务器 http://localhost:8080 可能不可用，请求出现错误：Get "http://localhost:8080": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 16:10:44] [WARNING]: no usable sign server 
+[2024-07-31 16:10:44] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-07-31 16:12:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 16:12:11] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-31 16:12:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 16:12:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 16:12:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 16:52:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 17:32:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 18:12:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 18:52:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 19:07:25] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-31 19:07:58] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-31 19:11:11] [ERROR]: 错误: 请先添加 CleanBlue(2411501021) 为好友 
+[2024-07-31 19:32:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 20:12:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 20:52:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 21:32:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 22:12:04] [WARNING]: 签名服务器 http://server.kaivps.cloud:18651 可能不可用，请求出现错误：Get "http://server.kaivps.cloud:18651": dial tcp: lookup server.kaivps.cloud: no such host 
+[2024-07-31 22:20:38] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52771->127.0.0.1:8890: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2024-07-31 22:20:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52771->127.0.0.1:8890: wsasend: An existing connection was forcibly closed by the remote host. 
+[2024-07-31 22:20:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:20:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:20:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:20:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:21:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:21:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:21:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:21:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2024-07-31 22:21:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 

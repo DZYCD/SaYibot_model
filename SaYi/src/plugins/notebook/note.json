@@ -1,0 +1,23 @@
+{
+  "adding": {
+    "target": "C题代码"
+  },
+  "杭电账号": {
+    "content": "team658 629321"
+  },
+  "割边": {
+    "content": "void tarjan(int id,int last){//割边算法\r\n    s.push(id);\r\n    order[id] = ++timeStamp;\r\n    low[id] = order[id];\r\n    for(auto i:node[id]){\r\n        if(i.second==(last^1))continue;\r\n        if(order[i.first]==0) {\r\n            tarjan(i.first, i.second);\r\n            low[id] = min(low[i.first], low[id]);\r\n        }\r\n        else{\r\n            low[id] = min(low[id],order[i.first]);\r\n        }\r\n    }\r\n    if(order[id] == low[id]){\r\n        ans++;\r\n        father[ans].push_back(id);\r\n        while(s.top() != id){\r\n            father[ans].push_back(s.top());\r\n            s.pop();\r\n            }\r\n        /[CQ:face,id=79]is[s.top()]=0;\r\n        s.pop();\r\n    }\r\n}\r\nvoid solve() {\r\n    int m;\r\n    cin>>n>>m;\r\n    for(int i = 1;i<=m;i++){\r\n        int u,v;\r\n        cin>>u>>v;\r\n        //cout<<u<<' '<<v<<endl;\r\n        node[u].push_back({v,i<<1});\r\n        node[v].push_back({u,i<<1|1});\r\n    }\r\n    for(int i = 1;i<=n;i++)if(order[i]==0){tarjan(i,0);}\r\n    cout<<ans<<endl;\r\n    for(int i = 1;i<=ans;i++){\r\n        cout<<father[i].size()<<' ';\r\n        for(auto p: father[i])cout<<p<<' ';\r\n        cout<<endl;\r\n    }\r\n}"
+  },
+  "外卖": {
+    "content": "说实话，外卖在有些时候特别关键。尤其是在夜里食堂关门的时候。。"
+  },
+  "大一战绩": {
+    "content": "蓝桥杯国二 天梯赛国三 睿抗国一 百度之星省三 马蹄杯省一 icpc铜牌 ccpc银牌 三创赛校一 苏嵌杯校三  icpc优胜 四级过差一个校二就是大满贯 共加14.75"
+  },
+  "割点": {
+    "content": "void tarjan(int id,int last){\r\n    low[id] = ++timeStamp;\r\n    order[id] = low[id];\r\n    int child = 0;\r\n    p.push(id);\r\n    for(int i : node[id]){\r\n        if(!order[i]){\r\n            child++;\r\n            tarjan(i,id);\r\n            low[id] = min(low[id],low[i]);\r\n            if(low[i] >= order[id]){\r\n                ans++;int tmp;\r\n                do{\r\n                    tmp = p.top();\r\n                    p.pop();\r\n                    ans_list[ans].push_back(tmp);\r\n                }while(tmp!=i);\r\n                ans_list[ans].push_back(id);\r\n            }\r\n        }\r\n        else{\r\n            if(order[i]<order[id] &amp;&amp; id!=last)low[id] = min(low[id],order[i]);\r\n        }\r\n    }\r\n    if(id==par &amp;&amp; child==0){\r\n        ans++;\r\n        ans_list[ans].push_back(id);\r\n    }\r\n}"
+  },
+  "C题代码": {
+    "content": "#include<bits/甩头dc++.h>\r\nusing namespace std;\r\n\r\n#define pll pair<int,int>\r\n#define ll long long\r\n#define mod 1000000007\r\nll num[400100];\r\nll start[400100];\r\nvoid solve() {\r\n    int n,k;\r\n    cin>>n>>k;\r\n    for(int i = 1;i<=n;i++){\r\n        cin>>num[i];\r\n    }\r\n    for(int i = 0;i<=2*k;i++){\r\n        start[i] = 0;\r\n    }\r\n    for(int i = 1;i<=n;i++){\r\n        ll mo  = num[i]%(2*k);\r\n        ll p = mo + k - 1;\r\n        if(p >= 2*k){\r\n            p = p-2*k+1;\r\n            //cout<<p<<' '<<mo<<endl;\r\n            start[p]++;\r\n            start[mo]--;\r\n        }\r\n        else{\r\n            //cout<<0<<' '<<mo<<endl;\r\n            start[0]++;\r\n            start[mo]--;\r\n            if(p+1<=2*k) {\r\n                //cout<<p+1<<' '<<2*k<<endl;\r\n                start[p + 1]++;\r\n                start[2 * k]--;\r\n            }\r\n        }\r\n    }\r\n    ll ma = 1e15;\r\n    sort(num+1,num+1+n);\r\n    int p = 0;\r\n    for(int i = 0;i<2*k;i++){\r\n        p += start[i];\r\n        //cout<<start[i]<<' ';\r\n        if(p==0){\r\n            int p = num[n]%(2*k);\r\n            int cha = (i + 2*k - p)%(2*k);\r\n            ma = min(ma,num[n]+cha);\r\n        }\r\n    }\r\n    cout<<(ma==1e15?-1:ma)<<endl;\r\n}\r\nvoid front(){\r\n}\r\nsigned main() {\r\n    ios::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);\r\n    int ttt = 1;\r\n    cin >> ttt;\r\n    front();\r\n    while (ttt--) {\r\n        solve();\r\n    }\r\n    return 0;\r\n}"
+  }
+}

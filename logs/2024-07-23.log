@@ -1,0 +1,10 @@
+[2024-07-23 22:11:05] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-23 22:11:36] [WARNING]: 群 455953679 发送消息失败: 账号可能被风控. 
+[2024-07-23 22:13:03] [WARNING]: 群 715035073 发送消息失败: 账号可能被风控. 
+[2024-07-23 22:13:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-23 22:13:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-23 23:22:31] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-07-23 23:29:19] [WARNING]: 群 868949744 发送消息失败: 账号可能被风控. 
+[2024-07-23 23:39:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2024-07-23 23:39:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-07-23 23:39:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
