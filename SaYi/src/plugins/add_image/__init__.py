@@ -23,7 +23,7 @@ async def _(event: Event, args: Message = CommandArg()):
     if delay():
         return
     user = event.get_session_id()
-    if ("1109876092" not in user) and ("3837076318" not in user):
+    if ("1" not in user):
         await image_adder.finish("权限不足，去看看别的功能吧")
     name = args.extract_plain_text()
     dataset.update_value("adding", "target", name)
@@ -71,7 +71,7 @@ async def _(event: Event):
     if delay():
         return
     user = event.get_session_id()
-    if ("1109876092" not in user) and ("3837076318" not in user):
+    if ("1" not in user):
         await image_list.finish("权限不足，去看看别的功能吧")
     try:
         note = dataset.get_dataset()
