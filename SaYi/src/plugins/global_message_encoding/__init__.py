@@ -14,8 +14,8 @@ from ..time_freezer import delay
 dataset = DataSetControl()
 group_rule = is_type(GroupMessageEvent)
 awake_message = on_message(priority=99, rule=group_rule)
-awaking_msg = ["终于回话了", "醒了过来", "已读刚回"]
-focus_list = ["可爱捏", "?", "你说得对。", "我没意见", "原来如此！"]
+awaking_msg = ["终于回话了", "醒了过来", "已读刚回", "上线了。好久不见", "你来啦。"]
+focus_list = ["可爱捏", "?", "你说得对。", "我没意见", "原来如此！", "哦哦！"]
 
 
 @awake_message.handle()

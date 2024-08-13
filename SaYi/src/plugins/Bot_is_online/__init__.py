@@ -28,7 +28,7 @@ async def poke_replier(matcher: Matcher):
 morning = on_command("在吗", rule=to_me(), priority=9, block=True)
 night = on_type((PokeNotifyEvent,), rule=to_me(), priority=10, block=True)
 update_info = on_command("更新日志", priority=1, block=True)
-job_path = "C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\Bot_is_online\\update.json"
+job_path = "./update.json"
 dataset = DataSetControl(job_path)
 
 

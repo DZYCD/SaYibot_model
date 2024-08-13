@@ -82,7 +82,7 @@ async def handle_function(event: Event):
     except MatcherException:
         raise
     except Exception as e:
-        print("error")
+        raise
 
 
 async def get_data():
@@ -100,7 +100,7 @@ async def handle_function():
         file_path = 'file:///SaYi/picture/SaYi.PNG'
         await SaYi_info.finish(MessageSegment.text(
             "--SaYi{998}--\n我是SaYi998号，目前在【世忆图书馆】暂留并获得更新。"
-            "\n我主要用于在QQ中和群友们聊天水群、提供信息。\n::绝大部分的功能还在更新队列中\n\ngenerator:单子叶蚕豆\n版本：PRMoment.2\nSaYi的生日是在8月2号！") + MessageSegment.image(
+            "\n我用于在QQ中和群友们聊天水群、提供信息，但主要是作为助理。\n::绝大部分的功能还在更新队列中\n\ngenerator:单子叶蚕豆\n版本：PRMoment.2\nSaYi的生日是在8月2号！") + MessageSegment.image(
             file_path))
     except MatcherException:
         raise

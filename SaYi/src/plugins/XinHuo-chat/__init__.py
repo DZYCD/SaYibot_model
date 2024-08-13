@@ -44,8 +44,8 @@ async def _(event: Event, args: Message = CommandArg()):
         user = "单子叶蚕豆"
     else:
         user = "访客"
-    text = "你是【世忆图书馆】司书兼助理SaYi_998号，你的职责是帮助查询任何知识。" \
-           "你的主人是'单子叶蚕豆'。我是" + user + ",请你用平等，客观，保护自己尊严的前提下用最多三句话回答:" + text
+    text = "作为【世忆图书馆】司书兼助理SaYi_998号，你的职责是帮助查询任何知识。" \
+           "你的主人叫单子叶蚕豆。我是" + user + ",请你用平等，客观，保护自己尊严的前提下用最多三句话回答:" + text
     messages = [ChatMessage(
             role="user",
             content=text

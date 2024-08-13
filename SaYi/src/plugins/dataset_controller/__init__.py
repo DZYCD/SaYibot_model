@@ -11,8 +11,7 @@ from nonebot.adapters.onebot.v11 import PokeNotifyEvent, PrivateMessageEvent
 
 
 class DataSetControl:
-    def __init__(self, data_path="C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\dataset_controller"
-                                 "\\library.json"):
+    def __init__(self, data_path="E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\dataset_controller\\library.json"):
         self.data_file = data_path
 
     def get_dataset(self):

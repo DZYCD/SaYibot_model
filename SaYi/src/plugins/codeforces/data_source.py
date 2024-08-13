@@ -7,7 +7,7 @@ import random
 import json
 from ..dataset_controller import DataSetControl
 
-job_path = "C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\job_list.json"
+job_path = "E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\job_list.json"
 dataset = DataSetControl(job_path)
 
 
@@ -110,19 +110,20 @@ def get_contest_list():
     }
     dataset_list = dataset.get_value("result", "job_list")
     contest_result = []
+    job_list = []
+    for p in dataset_list:
+        if p[1] != "CodeForces_contest_annotation":
+            job_list.append(p)
     for i in contest_list:
         if i["phase"] == "BEFORE":
             info = i["id"], i["name"], trans[i["type"]], to_minutes(i["durationSeconds"]), to_date(
-                i["startTimeSeconds"])
+                i["startTimeSeconds"]), "https://codeforces.com/contest/{}".format(i["id"])
             contest_result.append(info)
-            flag = 1
-            for p in dataset_list:
-                if p[0] == i["startTimeSeconds"] and p[1] == "cf_contest_annotation":
-                    p[2] = i["name"]
-                    flag = 0
-            if flag:
-                dataset_list.append([i["startTimeSeconds"], "cf_contest_annotation", i["name"]])
+            job_list.append([i["startTimeSeconds"], "CodeForces_contest_annotation",
+                                     i["name"], "https://codeforces.com/contest/{}".format(i["id"])])
         else:
-            dataset.update_value("result", "job_list", dataset_list)
-            dataset.update_value("result", "job_count", len(dataset_list))
+            job_list.sort(key=lambda x: x[0], reverse=False)
+            dataset.update_value("result", "job_list", job_list)
+            dataset.update_value("result", "job_count", len(job_list))
             return contest_result
+    return contest_result

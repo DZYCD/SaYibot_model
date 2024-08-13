@@ -10,7 +10,7 @@ from .config import Config
 
 
 def check_time():
-    pd = pandas.read_json("C:/Users/DZYCD/PycharmProjects/SaYibot/SaYi/src/plugins/time_freezer/config.json", orient='index')[0]
+    pd = pandas.read_json("E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\config.json", orient='index')[0]
     first_time = pd["time"]
     cont = pd["set"]
     now_time = time.time()
@@ -18,7 +18,7 @@ def check_time():
     print("time passed:{}".format(now_time - first_time))
     if is_allowed:
         pd["time"] = now_time
-    pd.to_json("C:/Users/DZYCD/PycharmProjects/SaYibot/SaYi/src/plugins/time_freezer/config.json")
+    pd.to_json("E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\config.json")
     return is_allowed
 
 

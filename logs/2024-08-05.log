@@ -1,2 +1,0 @@
-[2024-08-05 00:03:57] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
-[2024-08-05 00:43:57] [WARNING]: 签名服务器 http://qsign2.pueh.cc:15948 可能不可用，请求出现错误：Get "http://qsign2.pueh.cc:15948": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 

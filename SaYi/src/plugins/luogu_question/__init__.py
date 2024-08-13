@@ -10,7 +10,7 @@ from .data_source import webshot
 
 ques_picker = on_command("洛谷查题", aliases={"洛谷搜题"}, priority=10, block=True)
 random_picker = on_command("洛谷抽题", priority=10, block=True)
-image_id = 'C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\picture\\result.png'
+image_id = 'E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\luogu_question\\image.png'
 
 
 @ques_picker.handle()

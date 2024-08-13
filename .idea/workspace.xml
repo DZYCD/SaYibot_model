@@ -4,7 +4,622 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24d5c8b5-1fee-4bd9-a299-1e0ac35d1c54" name="更改" comment="" />
+    <list default="true" id="24d5c8b5-1fee-4bd9-a299-1e0ac35d1c54" name="更改" comment="最好的！SaYi！&#10;版本：PRMoment.2">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SaYibot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SaYibot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qsign_Monitor.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/codeforces_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/Bot_is_online/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/Bot_is_online/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/Bot_is_online/update.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/Bot_is_online/update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/XinHuo-chat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/XinHuo-chat/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/add_image/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/add_image/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/add_image/image.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/add_image/image.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/broadcast/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/broadcast/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/codeforces_main.png" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/codeforces_main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/codeforces_user.png" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/codeforces_user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/data_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/codeforces/data_source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/dataset_controller/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/dataset_controller/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/dataset_controller/library.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/dataset_controller/library.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/global_message_encoding/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/global_message_encoding/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/help/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/help/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/luogu_question/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/luogu_question/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/notebook/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/notebook/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/notebook/note.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/notebook/note.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/recent_contests/data_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/recent_contests/data_source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/job_list.json" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/time_freezer/job_list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/weather_show/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/weather_show/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaYi/src/plugins/weather_show/weather_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/SaYi/src/plugins/weather_show/weather_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start_Qsign.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unidbg-fetch-qsign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unidbg-fetch-qsign.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/0165ffbac93df46271be18bfbc473403.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/064a8dd125ec7c23d8cf62fd4c6b0f94.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/07ec7e572348f39992908d8ec1bf06dc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/08eb3714e54d787fe8e849e16ef97163.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/0a9611fda6ae50758feb7a70ee7da9fd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/0afe4eb9eed98b4fe0b055976c8efc7c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/0b92bc88b37ea6c97ce426cb8ac7e4b5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/0bb4abdd3244b35ef0feb858977556b6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/114456a52166df4e64f1d5b43a1adea3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/121a6d78c8488c086e6079f829a14b60.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/15dddd511a0aa6c5cdec34431790b536.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1648f1ab8202c838f5d878dbc24ad725.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/16ff62dfe640ce87dfc9db8c05d9402e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/174ac38a14eb8d917a787b0b457258ab.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/19e11ef4384a0ebfd56eab429e8bc0fa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1bd84a0409550789f5bfe609c032e8a9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1c5279e9d64c6e4d192930cd4f46b71c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1d6b581b82412a94673e8475377afd46.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1df691cfe595a9a52c9ff51de9ca84c0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/1f654f751099086cbaf4b9e5df2d3d40.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/21fe09e6ff6e2811d746969daa5696ea.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/23d4cc0552de6922c31eccfb9a043135.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/24fc31b5fccd06f03eba50298b3eec1e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/275712a9bb816006d1f14e844b9535f4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/27986255707b653fff45ab6331508692.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/2ac98e9dcad85320f85dba1bbaee29a8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/3377d283dcefbc174233f3aefeb68e29.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/385acce363c5c9a72bc43440129b5642.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/39660cdac9bca660fd20e216d4666aac.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/3c69733d20fc9fce4b83dc3867d0b80c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/47bcf8c4d2a97007f73472a3e8ce3114.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/4e274de3e8862e8112df2197eefb355e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/5149861bde14b855dfddaac8ebba78f8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/53ad255b5a34f452cade604ef9fe481d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/55e8696696ba1a86e894cb9f78954459.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/58551b40b27decdd7d6b73f9c9852433.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/6410d7d3d46b4daf38cc2586ac523416.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/64b2a0239f1c1ff88870ed51f940a4aa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/65e6d93a341bad9e5dee97299cb79713.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/66fc2d946f92908834eb4f6a744f704d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/687f31363df0c6c4f4248b64937fd750.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/697a6576ec4ca1faf72ef5c941ccc9f0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/6f074a3185bf476bc83890fd93a265b5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/7c12a0e417ed90c1cf3cc8df5bc71dde.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/7df3e50dc015e3488d3c3043e245a4a7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/7e5523a23cea9d9160dc7e6e38169b59.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/87569e37553e67184eaa95a1e66500b9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/887aea081177b484a94a34215f7e1a73.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/8b1f86e4432c2a7ec5073e13639afcce.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/8f1bf82c1544497c4d73572d6ffff18d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/90d085fb27dd971e7650e0de7dd5c343.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/9633135440b20c262219502bf6a9fbc8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/9ace0a90e58e9f01283d8ad0ee2ddb3f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/a6cd8d500cb17b97f6bdf9ed85fb8674.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/ab16327311062fde97152c41f78ddcef.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/abab277d3e55395bc43734f0584d43d7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/abab5be0bd26b1ecdcec000d0d5a343a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/af6bd70ad528695b92969966016f6315.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/af9827427152d3f8f7ccae6435155d89.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/b315ccfbb23eeb1a5797bb6d73b8462b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/b52829c29006577a7798739fb132bcf9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/b7a9200fb3d8fd1ca31e422a496af6b8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c09feec76a6f00f84e617035d6c18c33.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c1134b03a5a610b5c5ba3b7a6bb289a4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c2d24ae490a82829ae4c4ed0a2e39737.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c31ff71a771d14ced83a6e9b293f55bb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c3c7dd7788e5c5715f7c5b45d991bbbf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c672463f4071ca064fbb63b60469fe1a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c6d1e9ae71afe8e904d1d68b46ab19f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/c7213cb0824cc0af6ddaa9dc10b2a759.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/cc224a67cc832218550a1c1d460c93b7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/d390cf34017833e69482e62c31a92368.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/d64475e8f5eff3393fd6a94688163a87.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/d7e9f76d4c21432a2f92f765babbf302.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/d8bfd5c262aa4c72c9e4b8ea02eef95a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/de42bb235b4aeddc1b3cc7294451dfdf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/df9544a81ba259234d85e6ca03e8b3b7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/e7304fc3fe49c20d81c17a5f6b99389e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/e99032e681bb6282024c89d92c44f874.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/f01332bf3a76c0514de14c42f5819355.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/f180435204518caaeac4380a7c65dd1f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/f1bf3fc942117be2ad38ecce3ab2da9b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/f2702936d29e21cc62e96e3495260c0f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/f89a95c8ae4846e12e536d9fdf222844.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/fb7a57398c9888d86c98e134ef8d0e8a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/ff6bf0008cd947a24c07f69d2875dcf9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cache/ffd43feb1490f76a6ed99e579a439e77.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/000280.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/000283.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/000288.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/000289.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/MANIFEST-000290" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000280.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000281.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000282.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/MANIFEST-000283" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/versions/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/versions/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/000120.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/000151.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/000206.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/MANIFEST-000207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/device.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cqhttp.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cqhttp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cqhttp_windows_amd64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/API-MS-Win-core-xstate-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/awt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/client/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/dt_socket.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/fontmanager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/freetype.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/instrument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/j2gss.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/j2pcsc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/j2pkcs11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jaas.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jabswitch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jabsysinfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jaccessinspector-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jaccessinspector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jaccesswalker-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jaccesswalker.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/java.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/java.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/javaaccessbridge-32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/javaaccessbridge.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/javajpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/javaw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jawt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jdwp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jfr.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jimage.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jjs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jli.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jrunscript.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/jsound.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/keytool.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/kinit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/klist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/ktab.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/lcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/le.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/management.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/management_agent.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/management_ext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/mlib_image.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/msvcp140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/nio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/pack200.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/prefs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/rmi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/rmid.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/rmiregistry.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/server/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/splashscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/sspi_bridge.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/sunec.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/sunmscapi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/unpack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/unpack200.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/verify.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/w2k_lsa_auth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/windowsaccessbridge-32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/windowsaccessbridge.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/bin/zip.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/management/jmxremote.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/management/jmxremote.password.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/management/management.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/net.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/java.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/java.security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/limited/default_US_export.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/limited/default_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/limited/exempt_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/unlimited/default_US_export.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/security/policy/unlimited/default_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/conf/sound.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/aes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/asm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/c-libutl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/cldr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/icu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/public_suffix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/unicode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.base/zlib.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.compiler/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.compiler/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.compiler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.datatransfer/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.datatransfer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/colorimaging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/freetype.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/giflib.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/harfbuzz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/jpeg.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/lcms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/libpng.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.desktop/mesa3d.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.instrument/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.instrument/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.instrument/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.logging/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.logging/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.logging/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.management/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.naming/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.naming/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.naming/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.net.http/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.net.http/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.net.http/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.prefs/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.prefs/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.prefs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.scripting/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.scripting/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.scripting/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.se/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.se/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.se/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.jgss/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.jgss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.sasl/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.security.sasl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.smartcardio/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.smartcardio/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql.rowset/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql.rowset/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.sql/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.transaction.xa/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.transaction.xa/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml.crypto/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml.crypto/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml.crypto/santuario.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/bcel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/dom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/jcup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/xalan.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/java.xml/xerces.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.accessibility/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.accessibility/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.charsets/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.charsets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.cryptoki/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.ec/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.ec/ecc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.mscapi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.mscapi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.crypto.mscapi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.dynalink/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.dynalink/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.dynalink/dynalink.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.httpserver/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.httpserver/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.ed/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.le/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.le/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.internal.le/jline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jdwp.agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jfr/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jfr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jsobject/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.jsobject/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.localedata/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.localedata/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.localedata/cldr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.localedata/thaidict.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.agent/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management.jfr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.management/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.dns/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.ldap/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.ldap/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.ldap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.naming.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.net/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.net/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.net/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.pack/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.pack/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.pack/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn.shell/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn.shell/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn.shell/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn/double-conversion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.scripting.nashorn/joni.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.sctp/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.sctp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.auth/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.auth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.security.jgss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.unsupported/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.unsupported/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.xml.dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.zipfs/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/legal/jdk.zipfs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/classlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/client/Xusage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/fontconfig.bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/fontconfig.properties.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jawt.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jfr/default.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jfr/profile.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jrt-fs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jvm.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/jvm.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/modules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/psfont.properties.ja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/psfontj2d.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/security/blocked.certs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/security/cacerts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/security/default.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/security/public_suffix_list.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/server/Xusage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/tzdb.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/lib/tzmappings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jre/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/alpn-api-1.1.3.v20160715.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/annotations-23.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config-1.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jansi-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jq.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-common-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlinx-coroutines-core-jvm-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlinx-coroutines-jdk8-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlinx-serialization-json-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlinx-serialization-protobuf-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-events-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-http-cio-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-http-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-io-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-network-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-serialization-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-serialization-kotlinx-json-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-serialization-kotlinx-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-server-content-negotiation-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-server-core-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-server-host-common-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-server-netty-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-server-status-pages-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-utils-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ktor-websockets-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logback-classic-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logback-core-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-buffer-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-codec-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-codec-http-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-codec-http2-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-common-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-handler-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-resolver-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-classes-epoll-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-classes-kqueue-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-native-epoll-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-native-kqueue-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/netty-transport-native-unix-common-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sed.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/unidbg-android-105.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/unidbg-fetch-qsign-1.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/unidbg-fetch-qsign-1.1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-07-31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-08-01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-08-02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-08-03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-08-04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-08-05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session.token" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/android_tim.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/libpoxy.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.1/libwtecdh.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.2/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.2/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.2/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.2/libpoxy.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/3.5.2/libwtecdh.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/.system_android_l2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/android_pad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/stdin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.58/stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/android_pad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.63/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/android_pad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.68/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/.system_android_l2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/android_pad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/stdin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.70/stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.71/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.71/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.71/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.71/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/android_pad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/android_phone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib/8.9.73/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txlib_version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/images/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/images/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/images/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/images/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/leveldb-v3/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/leveldb-v3/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/leveldb-v3/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/leveldb-v3/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/videos/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/videos/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/videos/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/data/videos/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/device.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-onekey-main/logs/2024-07-23.log" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,29 +643,61 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PRMoment.2.Beta-2024.8.11" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DZYCD/SaYibot.git&quot;,
+    &quot;accountId&quot;: &quot;e9be6868-88c7-436f-b298-2df814164836&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SaYi/src/plugins/global_message_encoding/__init__.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jbIefm8fzFXzvqSo9eNgDryeJB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.sample.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DZYCD/PycharmProjects/SaYibot/SaYi/picture&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Pycharm_projects/SaYibot&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,12 +710,20 @@
       <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\luogu_question" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm_projects\SaYibot\SaYi" />
       <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\time_freezer" />
       <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\.venv\Lib\site-packages\nonebot_plugin_apscheduler-0.5.0.dist-info" />
       <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins\codeforces" />
       <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\src\plugins" />
-      <recent name="C:\Users\DZYCD\PycharmProjects\SaYibot\SaYi\picture" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,17 +763,87 @@
       <workItem from="1722694702636" duration="7655000" />
       <workItem from="1722749414450" duration="348000" />
       <workItem from="1722758636482" duration="2184000" />
-      <workItem from="1722780053355" duration="3805000" />
+      <workItem from="1722780053355" duration="4734000" />
+      <workItem from="1722793068979" duration="589000" />
+      <workItem from="1722830275074" duration="1245000" />
+      <workItem from="1722859516041" duration="3663000" />
+      <workItem from="1722930980981" duration="244000" />
+      <workItem from="1722931237476" duration="489000" />
+      <workItem from="1722931846410" duration="17502000" />
+      <workItem from="1723176349327" duration="4963000" />
+      <workItem from="1723210931998" duration="275000" />
+      <workItem from="1723211216819" duration="11359000" />
+      <workItem from="1723362415937" duration="5975000" />
+      <workItem from="1723435751328" duration="7877000" />
+      <workItem from="1723521844368" duration="7763000" />
+      <workItem from="1723535397301" duration="1116000" />
+      <workItem from="1723536603930" duration="683000" />
+      <workItem from="1723537416960" duration="486000" />
     </task>
+    <task id="LOCAL-00001" summary="最好的！SaYi！&#10;版本：PRMoment.2">
+      <created>1722792170613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722792170613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最好的！SaYi！&#10;版本：PRMoment.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="最好的！SaYi！&#10;版本：PRMoment.2" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SaYibot$sample.coverage" NAME="sample 覆盖结果" MODIFIED="1722325625550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SaYibot$main.coverage" NAME="main 覆盖结果" MODIFIED="1721655070816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SaYibot$sample.coverage" NAME="sample 覆盖结果" MODIFIED="1723527604664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SaYibot$bot.coverage" NAME="bot 覆盖结果" MODIFIED="1721748072024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaYi" />
     <SUITE FILE_PATH="coverage/SaYibot$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1722340314577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SaYi/src/plugins/XinHuo-chat" />
+    <SUITE FILE_PATH="coverage/SaYibot$main.coverage" NAME="main 覆盖结果" MODIFIED="1721655070816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -14,7 +14,7 @@ import datetime
 
 weather = on_command("天气", rule=to_me(), aliases={"查天气"}, priority=1, block=True)
 
-image_path = "C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\weather_show\\weather_image.png"
+image_path = "E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\weather_show\\weather_image.png"
 
 
 @weather.handle()

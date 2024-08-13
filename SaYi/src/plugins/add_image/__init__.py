@@ -11,7 +11,7 @@ from nonebot.adapters.onebot.v11 import PokeNotifyEvent, PrivateMessageEvent
 from ..dataset_controller import DataSetControl
 from ..time_freezer import delay
 
-dataset = DataSetControl("C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\add_image\\image.json")
+dataset = DataSetControl("E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\add_image\\image.json")
 
 image_adder = on_command("添加", rule=to_me(), priority=10, block=True)
 get_image = on_command("来只", aliases={"来点"}, priority=10, block=True)

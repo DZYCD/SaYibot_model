@@ -8,7 +8,7 @@ import json
 from ..dataset_controller import DataSetControl
 
 url = "https://algcontest.rainng.com/"
-job_path = "C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\job_list.json"
+job_path = "E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\time_freezer\\job_list.json"
 dataset = DataSetControl(job_path)
 
 
@@ -36,12 +36,14 @@ def add_into_job(info):
         try:
             if p[3] == job_info[3]:
                 p[2] = job_info[2]
+                p[1] = job_info[1]
+                p[0] = job_info[0]
                 flag = 0
         except:
             pass
     if flag:
         dataset_list.append(job_info)
-
+    dataset_list.sort(key=lambda x: x[0], reverse=False)
     dataset.update_value("result", "job_list", dataset_list)
     dataset.update_value("result", "job_count", len(dataset_list))
 
@@ -62,7 +64,7 @@ def get_contest_list(check_oj=None):
         if i["oj"] in check_oj:
             info = [i["oj"], i["name"], i["startTimeStamp"], i["endTimeStamp"], trans[i["status"]], i["oiContest"], i["link"]]
             contest_list.append(info)
-            if(i["status"]=="Running"):
+            if i["status"] == "Running":
                 continue
             add_into_job(info)
     return contest_list

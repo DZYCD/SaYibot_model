@@ -19,7 +19,7 @@ cf = on_command("cf", aliases={"codeforces"}, priority=10, block=True)
 cf_bind = on_command("cf绑定", rule=to_me(), aliases={"cfbind", "绑定cf"}, priority=10, block=True)
 cf_check = on_command("我的cf", rule=to_me(), aliases={"mycf"}, priority=10, block=True)
 cf_check_others = on_command("查cf", rule=to_me(), aliases={"开cf盒"}, priority=10, block=True)
-cf_contest_info = on_command("cf击杀榜", aliases={"hack统计"}, priority=10, block=True)
+cf_contest_info = on_command("cf赛事", aliases={"查询cf比赛"}, priority=10, block=True)
 message_list = ["启动了？", "可以挑战今天上50分", "可以挑战今天掉50分", "启动！", "今晚又是一个不眠之夜...",
                 "期望听到你的好消息", "期望听到你的坏消息", "随时准备hack！", "今天挑战一下超越jiangly", "D题盲猜1900分"]
 dataset_control = DataSetControl()
@@ -30,8 +30,12 @@ async def _():
     if delay():
         return
     try:
-
-        await cf.finish(random.choice(message_list))
+        contest_list = get_contest_list()
+        msg = MessageSegment.text("codeforces近期比赛：\n")
+        contest_list.reverse()
+        for i in contest_list:
+            msg = msg + MessageSegment.text("\n【id:{0}】\n--{1}--\n{2}\n比赛时长：{3}minutes\n开始日期：{4}\nlink:[{5}]".format(i[0], i[1], i[2], i[3], i[4], i[5]))
+        await cf.finish(msg)
     except MatcherException:
         raise
     except Exception as e:
@@ -52,7 +56,7 @@ async def handle_function():
         pass
 
 
-image_id = 'C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\codeforces\\codeforces_user.png'
+image_id = 'E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\codeforces\\codeforces_user.png'
 
 
 @cf_bind.handle()
@@ -117,6 +121,5 @@ async def handle_function(event: Event, args: Message = CommandArg()):
         raise
     except:
         await cf_bind.finish("貌似没找到")
-
 
 

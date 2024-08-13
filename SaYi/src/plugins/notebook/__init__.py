@@ -12,7 +12,7 @@ from nonebot.adapters.onebot.v11 import PokeNotifyEvent, PrivateMessageEvent
 from ..dataset_controller import DataSetControl
 from ..time_freezer import delay
 
-dataset = DataSetControl("C:\\Users\\DZYCD\\PycharmProjects\\SaYibot\\SaYi\\src\\plugins\\notebook\\note.json")
+dataset = DataSetControl("E:\\Pycharm_projects\\SaYibot\\SaYi\\src\\plugins\\notebook\\note.json")
 
 
 note_adder = on_command("记笔记", rule=to_me(), aliases={"添加笔记"}, priority=10, block=True)
@@ -39,6 +39,7 @@ async def _(event: Event):
     msg = str(event.get_message())
     msg = msg.replace("&#91;", "[")
     msg = msg.replace("&#93;", "]")
+    msg = msg.replace("&amp;", "&")
     name = dataset.get_value("adding", "target")
     dataset.update_value(name, "content", msg)
     await note_adder.finish("添加成功！")
