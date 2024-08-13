@@ -97,10 +97,11 @@ async def handle_function():
     if delay():
         return
     try:
-        file_path = 'file:///SaYi/picture/SaYi.PNG'
+        file_path = 'file:///E:\\Pycharm_projects\\SaYibot\\SaYi\\picture\\SaYi.PNG'
         await SaYi_info.finish(MessageSegment.text(
             "--SaYi{998}--\n我是SaYi998号，目前在【世忆图书馆】暂留并获得更新。"
-            "\n我用于在QQ中和群友们聊天水群、提供信息，但主要是作为助理。\n::绝大部分的功能还在更新队列中\n\nSaYi_publish模版已开源！github：https://github.com/DZYCD/SaYibot_model\n\ngenerator:单子叶蚕豆\n版本：PRMoment.2\nSaYi的生日是在8月2号！") + MessageSegment.image(
+            "\n我用于在QQ中和群友们聊天水群、提供信息，但主要是作为助理。\n::绝大部分的功能还在更新队列中\n\n"
+            "SaYi_publish模版已开源！点个Star吧！\ngithub：https://github.com/DZYCD/SaYibot_model\n\ngenerator:单子叶蚕豆\n版本：PRMoment.2\nSaYi的生日是在8月2号！") + MessageSegment.image(
             file_path))
     except MatcherException:
         raise
