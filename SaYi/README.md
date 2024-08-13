@@ -1,7 +1,9 @@
 # SaYi
-SaYi Bless ISOM
+--SaYi Bless ISOM--
 
-generator
+![QQ图片20240814015932](https://github.com/user-attachments/assets/56576b50-b4e7-44d0-a698-b37fd9bf43e3)
+
+generator : DzYCd 单子叶蚕豆
 
 ////////           ////////////////////       ////           ///                               //
 ///   ///////        /////////////////         ////         ///                               //
@@ -21,8 +23,15 @@ generator
                                                      ///
 ## How to start
 
-在项目目录cmd运行python bot.py
-在项目employ目录下，cmd运行.\go-cqhttp_windows_amd64.exe
+1 此项目基于go-cqhttp和nonebot架构运行。反向服务器前往Sayi/deploy文件夹下查看.
+
+2 在项目employ目录下，在yml文件中填入QQid后 文件夹下cmd运行.\go-cqhttp_windows_amd64.exe
+
+3 将终端cd .\SaYi后 安装环境： pip install -r requriments.txt
+
+4 在项目目录cmd运行python bot.py
+
+5 通过QQ平台与SaYi交流吧
 
 ## Documentation
 
