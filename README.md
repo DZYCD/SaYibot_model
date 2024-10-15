@@ -12,8 +12,9 @@ generator : DzyCd 单子叶蚕豆
 即使是这样还是打算开源给大家了。希望对其他开发者们有些帮助
 
 ## How to start
+* SaYi使用的是OneBot 11标准
 
-* 1 将终端cd .\SaYi后 安装环境： pip install -r requriments.txt
+* 1 将SaYi文件夹下所有文件放到你的插件文件夹下，记得改代码里面的绝对路径
 
 * 2 在项目目录cmd运行python bot.py
 
@@ -26,7 +27,7 @@ generator : DzyCd 单子叶蚕豆
 
 [NoneBot](https://nonebot.dev/)
 
-[onebotv11](https://283375.github.io/onebot_v11_vitepress/)
+[OneBot 11](https://283375.github.io/onebot_v11_vitepress/)
 
 [星火大模型](https://console.xfyun.cn/services/sparkapiCenter)
 
