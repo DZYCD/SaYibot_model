@@ -1,4 +1,4 @@
-# SaYi[Published].ver SaYi_998 plugin_pack 
+# SaYi[Published].ver SaYi_998 plugins_pack 
 
 ![QQ图片20240814015932](https://github.com/user-attachments/assets/56576b50-b4e7-44d0-a698-b37fd9bf43e3)
 
